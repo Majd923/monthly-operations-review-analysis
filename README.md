@@ -23,7 +23,6 @@ This project analyzes the operational and financial performance of three store b
 ## Files Included
 - PDF Report
 - Excel Analysis Workbook
-- Charts and Visualizations
 
 ## Author
 Majd Tannous
